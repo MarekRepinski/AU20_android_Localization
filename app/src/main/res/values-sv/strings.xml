@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">Localization</string>
     <string name="greeting">Välkommen</string>
+    <string name="buttonText">Tryck</string>
+    <string name="great">Bra jobbat %1$s!!!</string>
 </resources>
